@@ -1,5 +1,38 @@
 # 💫 About Me:
-👋 Hello! I'm a 19-year-old Junior Developer from Paraguay, driven by a deep passion for programming and web development. I'm currently on an exciting journey, building my expertise in both PHP and JavaScript.<br><br>Skills and Expertise<br>Languages: PHP, JavaScript<br>Other Technologies: HTML, CSS, MySQL<br>My Journey<br>From a young age, I've been fascinated by the power of technology and its potential to transform ideas into reality. As I continue to grow in my career, I'm dedicated to mastering the art of coding and web development. Every project I take on is a stepping stone towards becoming a proficient and innovative developer.<br><br>Goals<br>🚀 Enhance Backend Skills: I am focused on deepening my knowledge of backend development with PHP, striving to build robust and scalable applications.<br><br>🌐 Master JavaScript: JavaScript is a versatile and essential tool in web development, and I'm committed to mastering its frameworks and libraries to create dynamic and interactive web experiences.<br><br>🤝 Collaborate and Contribute: One of my key goals is to contribute to open-source projects, engage with the developer community, and collaborate with peers to bring impactful projects to life.<br><br>Interests<br>✨ Web Development: Building responsive, user-friendly websites that deliver a seamless user experience.<br><br>⚙️ Object-Oriented Programming: Crafting clean, efficient, and maintainable code using OOP principles.<br><br>🗄️ Database Design: Designing and managing databases to ensure data integrity and optimal performance.<br><br>🔍 Continuous Learning: Staying up-to-date with the latest trends and technologies in the tech industry, always eager to learn and apply new skills.<br><br>Current Projects<br>I'm actively developing web applications and engaging in small projects to solidify my understanding and push my boundaries. Each project is a new opportunity to learn, grow, and innovate.<br><br>Fun Facts<br>🎓 I'm currently in the process of formal education and self-learning to broaden my skill set.<br>🌍 I'm passionate about the impact of technology on society and how it can be leveraged to solve real-world problems.<br>🛠️ I love experimenting with new tools and technologies, always looking for the next challenge to tackle.<br>
+👋 Hello! I'm a 19-year-old Junior Developer from Paraguay, driven by a deep passion for programming and web development. I'm currently on an exciting journey, building my expertise in both PHP and JavaScript.
+
+<br><br>
+
+Skills and Expertise<br>
+Languages: PHP, JavaScript<br>
+Other Technologies: HTML, CSS, MySQL
+
+<br><br>
+
+My Journey<br>
+From a young age, I've been fascinated by the power of technology and its potential to transform ideas into reality. As I continue to grow in my career, I'm dedicated to mastering the art of coding and web development. Every project I take on is a stepping stone towards becoming a proficient and innovative developer.
+
+<br><br>
+
+Goals<br>
+🚀 Enhance Backend Skills: I am focused on deepening my knowledge of backend development with PHP, striving to build robust and scalable applications.<br>
+🌐 Master JavaScript: JavaScript is a versatile and essential tool in web development, and I'm committed to mastering its frameworks and libraries to create dynamic and interactive web experiences.<br>
+🤝 Collaborate and Contribute: One of my key goals is to contribute to open-source projects, engage with the developer community, and collaborate with peers to bring impactful projects to life.
+
+<br><br>
+
+Interests<br>
+✨ Web Development: Building responsive, user-friendly websites that deliver a seamless user experience.<br>
+⚙️ Object-Oriented Programming: Crafting clean, efficient, and maintainable code using OOP principles.<br>
+🗄️ Database Design: Designing and managing databases to ensure data integrity and optimal performance.<br>
+🔍 Continuous Learning: Staying up-to-date with the latest trends and technologies in the tech industry, always eager to learn and apply new skills.
+
+<br><br>
+
+Current Projects<br>
+I'm actively developing web applications and engaging in small projects to solidify my understanding and push my boundaries. Each project is a new opportunity to learn, grow, and innovate.
+
+<br><br>
 
 
 ## 🌐 Socials:
